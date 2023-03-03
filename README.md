@@ -1,2 +1,2 @@
 # ML-ops-cml
-try MLOps based on cml
+try MLOps on my local machine
